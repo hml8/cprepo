@@ -1,0 +1,9 @@
+ID: Git_tutorial
+_schema-version: '2.0'
+description: open SAP git course
+version: 0.0.1
+
+modules:
+ - name: web
+   type: html5
+   path: web
